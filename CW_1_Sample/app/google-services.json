@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030176417219",
+    "firebase_url": "https://cw1-residential-default-rtdb.firebaseio.com",
+    "project_id": "cw1-residential",
+    "storage_bucket": "cw1-residential.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030176417219:android:1082b78907584711ef0976",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.cw_1_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030176417219-v3jleivmgot6r37ouomlqegunn55e3fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZia85Rfph9SXpvTPDx70LtJ2kDq0aIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030176417219-v3jleivmgot6r37ouomlqegunn55e3fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
